@@ -48,7 +48,7 @@ I'm a fresher data analyst passionate about solving real-world problems through 
 ### 🔹 Bank Loan Risk Analysis Dashboard
 > Examined bank loan data to identify risk patterns, default rates, and borrower profiles. Delivered a comprehensive dashboard highlighting key risk indicators.  
 > **Tools:** Python, Pandas, SQL, Power BI  
-> 📌 [View Project](#)
+> 📌 [https://github.com/dhruv22-bit/Banking-Loan-Risk-Analytics-Dashboard](#)
 
 
 ---
